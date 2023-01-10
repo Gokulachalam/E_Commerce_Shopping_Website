@@ -1,2 +1,4 @@
 # shopping-website
-Creation of a shopping website
+Creation of an end to end shopping website.
+
+
